@@ -45,7 +45,7 @@ The project uses the `yolo11x-pose.pt` model, which must be present in your proj
 
 ```
 .
-├── movement_detector.py  # (Your main code)
+├── YOLO-MovementType-Detection.py  # (Your main code)
 ├── yolo11x-pose.pt       # YOLO Pose Model Weights
 ├── dataset/
 │   └── peoplecrowd02.mp4 # Input Video File
