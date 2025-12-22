@@ -1,0 +1,5 @@
+yolo11x-pose.pt
+output/yolov11_movementtype_detectionpeoplecrowd01.mp4
+dataset/peoplecrowd01.mp4
+dataset/peoplecrowd02.mp4
+output/yolov11_movementtype_detectionpeoplecrowd02.mp4
