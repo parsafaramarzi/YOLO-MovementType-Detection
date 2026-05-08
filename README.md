@@ -4,7 +4,7 @@ This project utilizes the **YOLOv11-Pose** model to perform real-time human pose
 
 The bounding box label provides the classification and the specific angle measurements that led to the decision, aiding in monitoring and debugging.
 
-![Demo_Image](output\demo_frame01.jpg)
+![Demo_Image](output/demo_frame01.jpg)
 
 ## Demonstration
 
